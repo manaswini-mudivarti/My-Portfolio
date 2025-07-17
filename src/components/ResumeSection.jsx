@@ -65,7 +65,7 @@ export default function ResumeSection() {
 
 				{/* Download Button */}
 				<a
-  href="https://manaswini-mudivarti.github.io/My-Portfolio/public/resume.pdf"
+  href="https://raw.githubusercontent.com/manaswini-mudivarti/My-Portfolio/main/public/resume.pdf"
   download
   target="_blank"
   rel="noopener noreferrer"
@@ -73,6 +73,7 @@ export default function ResumeSection() {
 >
   Download Resume
 </a>
+
 
 			</div>
 		</section>
