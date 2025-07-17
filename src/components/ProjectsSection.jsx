@@ -35,7 +35,7 @@ const projects = [
 		description:
 			'Designed my Portfolio',
 		techStack: ['TailwindCSS', 'NodeJS', 'HTML'],
-		repoLink: 'https://github.com/manaswini-mudivarti/Game1',
+		repoLink: 'https://github.com/manaswini-mudivarti/My-Portfolio',
 	}
 	// add more projects as needed
 ];
