@@ -65,12 +65,15 @@ export default function ResumeSection() {
 
 				{/* Download Button */}
 				<a
-					href="/resume.pdf"
-					download
-					className="inline-block px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-shadow shadow-md hover:shadow-lg"
-				>
-					Download Resume
-				</a>
+  href="https://manaswini-mudivarti.github.io/My-Portfolio/public/resume.pdf"
+  download
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-shadow shadow-md hover:shadow-lg"
+>
+  Download Resume
+</a>
+
 			</div>
 		</section>
 	);
